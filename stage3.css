@@ -621,9 +621,9 @@ opacity: 0.7;
 }
 .stats2 h1{
     position: absolute;
-width: 177px;
+width: 172px;
 height: 76px;
-left: 635px;
+left: 593px;
 font-family: 'Manrope';
 font-style: normal;
 font-weight: 800;
@@ -635,7 +635,7 @@ color: #661CE7;
 }
 .stats2 p{
 position: absolute;
-width: 172px;
+width: 177px;
 height: 36px;
 left: 635px;
 top: 93px;
