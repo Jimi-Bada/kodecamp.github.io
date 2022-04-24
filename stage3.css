@@ -500,9 +500,9 @@ color: #1E1B1B;
     position: absolute;
 width: 316px;
 height: 232px;
-left: 326px;
+left: 806px;
 background: #fff;
-
+top:645px;
 }
 #img{
     position: absolute;
@@ -515,7 +515,8 @@ height: 46px;
     position: absolute;
 width: 316px;
 height: 232px;
-left: 326px;
+left: 1131px;
+    top:645px;
 background: #fff;
 
 }
