@@ -103,9 +103,9 @@ top: 109px;
     }
     .circle2 h3{
         position: absolute;
-width: 288px;
+width: 300px;
 height: 48px;
-right: -308px;
+right: -323px;
 top: 10px;
 font-family: 'Manrope';
 font-style: normal;
@@ -159,9 +159,9 @@ top: 109px;
     }
     .circle3 h3{
         position: absolute;
-width: 288px;
+width: 308px;
 height: 48px;
-right: -308px;
+right: -330px;
 top: 10px;
 font-family: 'Manrope';
 font-style: normal;
@@ -621,7 +621,7 @@ opacity: 0.7;
 }
 .stats2 h1{
     position: absolute;
-width: 96px;
+width: 177px;
 height: 76px;
 left: 635px;
 font-family: 'Manrope';
