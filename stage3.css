@@ -189,7 +189,7 @@ opacity: 0.6;
     .service{
         background-color: #F2F2F2;   
 position: absolute;
-width: 100%;
+width: 1920px;
 height: 1052px;
 top: 800px;
     }
@@ -212,7 +212,7 @@ top: 800px;
         position: absolute;
 width: 786px;
 height: 152px;
-right: 506px;
+right: 630px;
 top: 90px;
 font-family: 'Manrope';
 font-style: normal;
@@ -227,7 +227,7 @@ color: #1E1B1B;
     position: absolute;
 width: 316px;
 height: 232px;
-left: 160px;
+left: 281px;
 top: 400px;
 background:#fff;
    
@@ -260,7 +260,7 @@ color: #1E1B1B;
     position: absolute;
 width: 316px;
 height: 232px;
-left: 484px;
+left: 605px;
 top: 400px;
 background: #fff;
 }
@@ -349,7 +349,7 @@ color: #1E1B1B;
 position: absolute;
 width: 316px;
 height: 232px;
-left: 806px;
+left: 928px;
 top: 400px;
 background: #FF6433;
 }
@@ -380,7 +380,7 @@ color: white;
     position: absolute;
     width: 316px;
     height: 232px;
-    left: 1131px;
+    left: 1257px;
     top: 400px;
     background: white;
     }
@@ -419,7 +419,7 @@ color: black;
     position: absolute;
     width: 316px;
     height: 232px;
-    left: 160px;
+    left: 281px;
     top: 645px;
     background: white;
 
@@ -451,7 +451,7 @@ color: #1E1B1B;
     position: absolute;
 width: 316px;
 height: 232px;
-left: 484px;
+left: 605px;
 top:645px;
 background: #fff;
 
@@ -500,7 +500,7 @@ color: #1E1B1B;
     position: absolute;
 width: 316px;
 height: 232px;
-left: 806px;
+left: 928px;
 background: #fff;
 top:645px;
 }
@@ -530,7 +530,7 @@ height: 46px;
     position: absolute;
 width: 316px;
 height: 232px;
-left: 1131px;
+left: 1257px;
     top:645px;
 background: #fff;
 
