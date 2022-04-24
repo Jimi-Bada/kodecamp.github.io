@@ -192,6 +192,7 @@ position: absolute;
 width: 1920px;
 height: 1052px;
 top: 800px;
+        left:0px;
     }
     .service-text h1{
         position: absolute;
