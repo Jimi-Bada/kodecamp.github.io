@@ -504,6 +504,21 @@ left: 806px;
 background: #fff;
 top:645px;
 }
+.services-container7 p{
+    position: absolute;
+width: 115px;
+height: 36px;
+left: 95px;
+top: 106px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+letter-spacing: -0.03em;
+color: #1E1B1B;
+}
 #img{
     position: absolute;
     width: 36.84px;
@@ -519,6 +534,21 @@ left: 1131px;
     top:645px;
 background: #fff;
 
+}
+.services-container8 p{
+    position: absolute;
+width: 115px;
+height: 36px;
+left: 95px;
+top: 106px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+letter-spacing: -0.03em;
+color: #1E1B1B;
 }
 #img1{
     position: absolute;
