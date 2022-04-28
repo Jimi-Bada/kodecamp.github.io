@@ -212,11 +212,9 @@ padding-bottom: 50px;
 .service-container{
 display: flex;
 flex-wrap: wrap;
-max-width: 90%;
     justify-content: center;
     align-content: center;
     align-items: center;
-    margin-left: 72px;
 }
 .services-container{
 width: 316px;
@@ -521,8 +519,6 @@ color: #1E1B1B;
     height: 46px;
 }
 .undertext h1{
-width: 179px;
-top: 912px;
 font-family: 'Manrope';
 font-style: normal;
 font-weight: 600;
@@ -548,12 +544,14 @@ height: 502px;
 float: left;
 }
 .orange{
-width: 37%;
+width: 41%;
 height: 502px;
 background: #FF6433;
 float: right;
 position: absolute;
 left: 330px;
+display: flex;
+justify-content: center;
 }
 .orange h1{
 width: 547px;
@@ -565,6 +563,8 @@ font-size: 48px;
 line-height: 140%;
 letter-spacing: -0.03em;
 color: #FFFFFF;
+margin-top: 113px;
+
 }
 .engine{
 width: 45.5%;
@@ -787,6 +787,5 @@ display: inline;
 .brand10 h1{
     display: inline;
 }
-
 
 
