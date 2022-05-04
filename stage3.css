@@ -1,4 +1,9 @@
-.showcase{
+
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}.showcase{
     display: flex;
     justify-content: space-between;
     padding-bottom: 200px;
@@ -549,7 +554,7 @@ height: 502px;
 background: #FF6433;
 float: right;
 position: absolute;
-left: 330px;
+left: 368px;
 display: flex;
 justify-content: center;
 }
@@ -567,9 +572,11 @@ margin-top: 113px;
 
 }
 .engine{
-width: 45.5%;
+    position: absolute;
+width: 44%;
 height: 502px;
 float: right;
+right: 15px;
 }
 .stats{
 background: #F2F2F2;
