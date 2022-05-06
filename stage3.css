@@ -3,8 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-}
-.showcase{
+}.showcase{
     display: flex;
     justify-content: space-between;
     padding-bottom: 200px;
@@ -234,7 +233,6 @@ margin: 5px 5px;
    
 }
 .services-container img{
-    background: #1E1B1B;
     transform: matrix(-1, 0, 0, 1, 0, 0);  
 }
 .services-container p{
@@ -261,13 +259,11 @@ margin: 5px 5px;
  .img1{
 width: 24.61px;
 height: 41.84px;
-background: #1E1B1B;
 transform: matrix(1, 0, 0, -1, 0, 0);
 }
 .img2{
 width: 12.3px;
 height: 17.23px;
-background: #1E1B1B;
 transform: matrix(1, 0, 0, -1, 0, 0);
 margin-left: 14px;
 margin-top: -29px;
@@ -275,7 +271,6 @@ margin-top: -29px;
 .img3{
 width: 9.19px;
 height: 6.56px;
-background: #1E1B1B;
 transform: matrix(1, 0, 0, -1, 0, 0);
 margin-left: 38px;
 margin-top: -41px;
@@ -283,7 +278,6 @@ margin-top: -41px;
 .img4{
 width: 14.93px;
 height: 9.02px;
-background: #1E1B1B;
 transform: matrix(1, 0, 0, -1, 0, 0);
 margin-left: 47px;
 margin-top: -34px;
@@ -291,7 +285,6 @@ margin-top: -34px;
 .img5{
     width: 14.93px;
     height: 9.02px;
-    background: #1E1B1B;
     transform: matrix(1, 0, 0, -1, 0, 0);
     margin-left: 47px;
 margin-top: -25px;
@@ -300,7 +293,6 @@ margin-top: -25px;
 .img6{
 width: 14.93px;
 height: 9.02px;
-background: #1E1B1B;
 transform: matrix(1, 0, 0, -1, 0, 0);
 margin-left: 47px;
 margin-top: -15px;
@@ -308,7 +300,6 @@ margin-top: -15px;
 .img7{
     width: 9.19px;
     height: 6.56px;
-    background: #1E1B1B;
     transform: matrix(1, 0, 0, -1, 0, 0);
     margin-left: 38px;
 margin-top: -8px;
@@ -368,13 +359,12 @@ margin: 5px 5px;
 
     width: 32.34px;
     height: 40.61px;
-    background: #1E1B1B;
+   
 }
 .img_2{
     position: absolute;
 width: 10.78px;
 height: 2.7px;
-background: #1E1B1B;
 margin-left: -10px;
 margin-top: 50px;
 }
@@ -407,7 +397,7 @@ margin: 5px 5px;
 .services-container5 img{
 width: 54.15px;
 height: 38.32px;
-background: #1E1B1B;
+
 }
 .services-container5 p{
 width: 115px;
@@ -443,7 +433,7 @@ width: 11px;
 height: 5.5px;
 margin-top: -38px;
 margin-left: -23px;
-background: #1E1B1B;
+
 
 }
 .image3{
@@ -451,7 +441,7 @@ width: 11px;
 height: 5.5px;
 margin-top: -38px;
 margin-left: 23px;
-background: #1E1B1B;
+
 
 }
 .services-container6 p{
@@ -755,9 +745,7 @@ color: #1E1B1B;
 .brand2 h1{
     display: inline;  
 }
-.brand-img1{
-    background: #1E1B1B;
-}
+
 .brand-img2{
     margin-left: -2px;
     margin-bottom: 2.65%;
