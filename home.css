@@ -894,6 +894,7 @@ display: inline;
 .engine{
     position: unset;
     float: none;
+    width:41%;
 }
     .service{
     padding-bottom: 50px;
