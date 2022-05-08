@@ -1,0 +1,708 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 100px;
+}
+.logo{
+    margin: 16px 0;
+}
+nav li{
+    display: inline;
+    font-family: 'Manrope';
+    padding: 0 20px;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+}
+.line{
+    border: 0.5px solid #939191;
+    display: inline;
+    background-color: #939191;;
+}
+.imgnav{
+    margin-left: 31px;
+    margin-bottom: -12px;
+}
+.phone{
+display: inline;
+}
+nav h1{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #1E1B1B;
+opacity: 0.7;
+display: flex;
+ padding: 5px;
+justify-content: flex-end;
+margin: 0px;
+ margin-left: 622px;
+ margin-top: -68px;
+}
+nav h2{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 175%;
+color: #1E1B1B;
+margin-top: 0px;
+margin-left: 622px;
+}
+.our-services{
+    display: flex;
+    justify-content: center;
+}
+.carimg{
+    margin-left: -298px;
+}
+.black{
+    position: absolute;
+    width: 733px;
+    height: 542px;
+    left: 825px;
+    top: 189px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    
+}
+.black h1{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 84px;
+letter-spacing: -0.03em;
+color: #F2F2F2;
+width: 374px;
+height: 84px;
+margin-top: 77px;
+margin-left: 70px;
+margin-bottom: 0px;
+}
+.black p{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 175%;
+color: #F2F2F2;
+width: 541px;
+height: 96px;
+margin-left: 70px;
+}
+.orangebox{
+    background: #FF6433;
+border-radius: 12px;
+    margin-left: 13px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    padding:0px 20px
+
+}
+.orangebox h2{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 175%;
+color: #FFFFFF;
+
+}
+/*diagnstics*/
+.diagnostics{
+    background-color: #F5F5F5;
+    padding-top: 100px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-bottom: 30px;
+}
+.auto-diagnostics{
+    background-color: white;
+    width: 35%;
+    margin-left: 150px;
+    padding-bottom: 30px;
+}
+.car-diagnostics{
+    margin: 50px 150px 150px 50px;
+    padding-top: 20px;
+}
+.auto-diagnostics h1{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 140%;
+letter-spacing: -0.03em;
+color: #1E1B1B;
+width: 519px;
+height: 67px;
+margin-top: -118px;
+margin-left: 50px;
+}
+.auto-diagnostics p{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.03em;
+color: #232536;
+opacity: 0.6;
+width: 528px;
+height: 180px;
+margin-left: 50px;
+}
+.auto-diagnostics h2{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 175%;
+color: #1E1B1B;
+width: 162px;
+height: 32px;
+margin-left: 50px;
+}
+.arrow{
+    margin-right: 358px;
+    float: right;
+    margin-top: -39px;
+    padding: 5px;
+}
+.service-container{
+    display: flex;
+    flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-right: -213px;
+        text-align: center;
+    }
+
+    .services-container{
+    width: 316px;
+    height: 232px;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    background:#FF6433;;
+    margin: 15px;
+       
+    }
+    .services-container img{
+        transform: matrix(-1, 0, 0, 1, 0, 0); 
+        background: #FFFFFF;
+        color: white; 
+    }
+    .image1{
+        background: #FFFFFF;
+        transform: matrix(-1, 0, 0, 1, 0, 0);
+        margin-top: -50px;
+    }
+    .services-container p{
+    height: 36px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.03em;
+    color: white;
+    }
+    .services-container3{
+        width: 316px;
+        height: 232px;
+        display: grid;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        background:white;
+        margin: 15px;
+           
+        }
+        .services-container3 img{
+            transform: matrix(-1, 0, 0, 1, 0, 0); 
+            color: black; 
+        }
+        .image2{
+            background: black;
+            transform: matrix(-1, 0, 0, 1, 0, 0);
+            margin-top: -50px;
+        }
+        .services-container3 p{
+        height: 36px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+        color:black;
+        }
+    
+    
+    .services-container2{
+        display: grid;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    margin: 15px;
+        width: 316px;
+        height: 232px;
+        background: white;
+    
+    }
+    .services-container2 img{
+    width: 54.15px;
+    height: 38.32px;
+    
+    }
+    .services-container2 p{
+    width: 115px;
+    height: 36px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #1E1B1B;
+    }
+    .service-container2{
+        display: flex;
+        flex-wrap: wrap;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+            margin-right: 104px;
+        }
+        .services-container4{
+        width: 316px;
+        height: 232px;
+        background: #fff;
+        display: grid;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        margin: 15px;
+        }
+         .img1{
+        width: 24.61px;
+        height: 41.84px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        }
+        .img2{
+        width: 12.3px;
+        height: 17.23px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 14px;
+        margin-top: -29px;
+        }
+        .img3{
+        width: 9.19px;
+        height: 6.56px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 38px;
+        margin-top: -41px;
+        }
+        .img4{
+        width: 14.93px;
+        height: 9.02px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 47px;
+        margin-top: -34px;
+        }
+        .img5{
+            width: 14.93px;
+            height: 9.02px;
+            transform: matrix(1, 0, 0, -1, 0, 0);
+            margin-left: 47px;
+        margin-top: -25px;
+        
+        }
+        .img6{
+        width: 14.93px;
+        height: 9.02px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 47px;
+        margin-top: -15px;
+        }
+        .img7{
+            width: 9.19px;
+            height: 6.56px;
+            transform: matrix(1, 0, 0, -1, 0, 0);
+            margin-left: 38px;
+        margin-top: -8px;
+        }
+        .services-container4 p{
+        width: 149px;
+        height: 36px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+        color: #1E1B1B;
+        text-align: center;
+        
+        }
+        .services-container5{
+            display: grid;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        margin: 15px;
+            width: 316px;
+            height: 232px;
+            background: white;
+        
+        }
+        .image_1{
+            width: 44px;
+            height: 31.17px;
+            
+        }
+        .image_2{
+        
+        width: 11px;
+        height: 5.5px;
+        margin-top: -38px;
+        margin-left: -5px;
+       }
+       .services-container5 p{
+        width: 115px;
+        height: 36px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        letter-spacing: -0.03em;
+        color: #1E1B1B;
+        }
+       .services-container6{
+        width: 316px;
+        height: 232px;
+        background: #fff;
+        display: grid;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        margin: 15px;
+        }
+         .img-1{
+        width: 24.61px;
+        height: 41.84px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        }
+        .img-2{
+        width: 12.3px;
+        height: 17.23px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 14px;
+        margin-top: -29px;
+        }
+        .img-3{
+        width: 9.19px;
+        height: 6.56px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 38px;
+        margin-top: -41px;
+        }
+        .img-4{
+        width: 14.93px;
+        height: 9.02px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 47px;
+        margin-top: -34px;
+        }
+        .img-5{
+            width: 14.93px;
+            height: 9.02px;
+            transform: matrix(1, 0, 0, -1, 0, 0);
+            margin-left: 47px;
+        margin-top: -25px;
+        
+        }
+        .img-6{
+        width: 14.93px;
+        height: 9.02px;
+        transform: matrix(1, 0, 0, -1, 0, 0);
+        margin-left: 47px;
+        margin-top: -15px;
+        }
+        .img-7{
+            width: 9.19px;
+            height: 6.56px;
+            transform: matrix(1, 0, 0, -1, 0, 0);
+            margin-left: 38px;
+        margin-top: -8px;
+        }
+        .services-container6 p{
+        width: 149px;
+        height: 36px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+        color: #1E1B1B;
+        text-align: center;
+        
+        }
+        .work{
+            padding-bottom: 20px;
+        }
+        .text-container h1{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 140%;
+letter-spacing: -0.03em;
+color: #1E1B1B;
+width: 489px;
+height: 134px;
+margin-left: 200px;
+        }
+        .process img{
+            margin-left: 180px;
+        }
+        .process p{
+            width: 443px;
+           height: 72px;
+           font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.03em;
+color: #1E1B1B;
+margin-left: 250px;
+margin-top: -51px;
+padding: 5px;
+        }
+        .process-img{
+            display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-top: -500px;
+    margin-right: 245px;
+        }
+        .first-car{
+            margin: 20px
+        }
+      .diagnostics2{
+        background-color: #F5F5F5;
+        padding-top: 100px;
+        margin-top: 80px;
+        display: flex;
+        justify-content:space-evenly;
+        align-items: flex-start;
+        padding-bottom: 80px;
+
+      }
+     .diagnostics2 h1{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 140%;
+        letter-spacing: -0.03em;
+        color: #1E1B1B;
+        width: 547px;
+      height: 201px;
+     }
+     .diagnostics2 p{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 175%;
+        color: #232536;
+        opacity: 0.6;
+        width: 512px;
+        height: 160px
+     }
+     .image-diagnostics{
+         margin: 10px;
+     }
+     .car1{
+         margin-right:20px;
+     }
+     .get-in-touch{
+         background-color: black;
+         margin: 0px;
+     }
+     .in-touch h1{
+        font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 140%;
+letter-spacing: -0.03em;
+color: #FFFFFF;
+margin: 0px;
+width: 25%;
+margin-left: 300px;
+padding-top: 30px;
+padding-bottom: 50px;
+
+     }
+     .social-icons{
+margin-left: 300px;
+padding-top: 30px;
+padding-bottom: 50px;
+     }
+     .instagram{
+         color: white;
+         padding: 5px;
+     }
+     .facebook{
+         padding: 5px;
+     }
+     .linkdin{
+         padding: 5px;
+     }
+     .twitter{
+         padding: 5px;
+     }
+     .side{
+         display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+     }
+     .side h2{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 175%; 
+        color: #FFFFFF;
+        opacity: 0.6;
+        margin-top: -285px;
+     }
+     .side p{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+        color: #FFFFFF;
+        margin-top: 0px;
+        
+     }
+     .side2{
+   display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    margin-left: 298px;
+    }
+    .side2 h2{
+       font-family: 'Manrope';
+       font-style: normal;
+       font-weight: 600;
+       font-size: 18px;
+       line-height: 175%; 
+       color: #FFFFFF;
+       opacity: 0.6;
+       margin-top: -163px;
+
+    }
+    .side2 p{
+       font-family: 'Manrope';
+       font-style: normal;
+       font-weight: 600;
+       font-size: 24px;
+       line-height: 36px;
+       letter-spacing: -0.03em;
+       color: #FFFFFF;
+       margin-top: 0px;
+       
+    }
+    .side3{
+        display: flex;
+   align-items: flex-start;
+   flex-wrap: wrap;
+   flex-direction: column;
+   align-content: center;
+   margin-left: 260px;
+    }
+    .side3 h2{
+       font-family: 'Manrope';
+       font-style: normal;
+       font-weight: 600;
+       font-size: 18px;
+       line-height: 175%; 
+       color: #FFFFFF;
+       opacity: 0.6;
+       margin-top: -38px;
+      
+    }
+    .side3 p{
+       font-family: 'Manrope';
+       font-style: normal;
+       font-weight: 600;
+       font-size: 24px;
+       line-height: 36px;
+       letter-spacing: -0.03em;
+       color: #FFFFFF;
+       margin-top: 0px;
+       
+    }
+    footer{
+        background-color: black;
+        margin: 0px;
+        padding-top: 100px;
+        padding-bottom: 50px;     
+
+    }
+    .finsweetlogo{
+        padding: 8px;
+        margin-left: 300px;
+        margin-bottom: -56px;
+    }
+    .footer-text{
+        margin-left: 773px;
+    }
+    .footer-text li{
+        color: white;
+        display: inline;
+        font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+padding: 10px;
+    }
+.copyright{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+color: #939191;
+float: right;
+margin-top: -63px;
+    margin-right: 194px;
+
+}
