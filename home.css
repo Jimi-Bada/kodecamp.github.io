@@ -885,14 +885,29 @@ display: inline;
 }
 /*media queries*/
 @media only screen and (max-width: 427px) {
-    .header,
-    .homepage,
-    .showcase,
-    .service,
-    .get-in-touch,
-    .brand{
-        width: 100%
-    }
+.in-touch{
+    display: flex;
+}
+.orange{
+    width: 144%;
+}
+.engine{
+    position: unset;
+    float: none;
+    width:41%;
+}
+    .service{
+    padding-bottom: 0px;
+        display:
+}
+.fintechimg{
+    margin-right: 147px;
+}
+    .get-in-touch{
+            margin-top: -300px;
+}
+}
+@media only screen and (max-width: 769px) {
 .in-touch{
     display: flex;
 }
