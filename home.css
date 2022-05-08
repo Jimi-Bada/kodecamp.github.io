@@ -885,6 +885,14 @@ display: inline;
 }
 /*media queries*/
 @media only screen and (max-width: 427px) {
+    .header,
+    .homepage,
+    .showcase,
+    .service,
+    .get-in-touch,
+    .brand{
+        width: 100%
+    }
 .in-touch{
     display: flex;
 }
