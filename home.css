@@ -889,7 +889,7 @@ display: inline;
     display: flex;
 }
 .orange{
-    width: 154%;
+    width: 192%;
 }
 .engine{
     position: unset;
@@ -911,8 +911,8 @@ display: inline;
 .in-touch{
     display: flex;
 }
-.orange{
-    width: 77%;
+#orange1{
+    width: 80%;
 }
 .engine{
     position: unset;
