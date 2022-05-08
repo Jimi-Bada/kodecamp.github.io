@@ -20,6 +20,10 @@ font-weight: 600;
 font-size: 16px;
 line-height: 28px;
 }
+a{
+   text-decoration: none;
+    color: black;
+}
 .line{
     border: 0.5px solid #939191;
     display: inline;
@@ -639,6 +643,9 @@ margin-right: -230px;
 height: 502px;
 float: left;
 }
+.orange1{
+    display: none;
+}
 .orange{
 width: 41%;
 height: 502px;
@@ -912,7 +919,7 @@ display: inline;
     display: flex;
 }
 #orange1{
-    width: 80%;
+    width: auto;
 }
 .engine{
     position: unset;
