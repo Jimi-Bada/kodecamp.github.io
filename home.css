@@ -895,3 +895,10 @@ display: inline;
     position: unset;
     float: none;
 }
+    .service{
+    padding-bottom: 50px;
+}
+.fintechimg{
+    padding-right: 200px;
+}
+}
