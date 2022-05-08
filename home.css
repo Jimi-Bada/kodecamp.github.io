@@ -914,7 +914,7 @@ display: inline;
             margin-top: -300px;
 }
 }
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1028px) {
 .in-touch{
     display: flex;
 }
