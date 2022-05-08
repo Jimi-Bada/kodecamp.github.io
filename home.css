@@ -884,12 +884,12 @@ display: inline;
     display: inline;
 }
 /*media queries*/
-@media only screen and (max-width: 427px) {
+@media only screen and (min-width: 427px) {
 .in-touch{
     display: flex;
 }
 .orange{
-    width: 144%;
+    width: 154%;
 }
 .engine{
     position: unset;
@@ -912,7 +912,7 @@ display: inline;
     display: flex;
 }
 .orange{
-    width: 144%;
+    width: 77%;
 }
 .engine{
     position: unset;
