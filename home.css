@@ -668,6 +668,22 @@ color: #FFFFFF;
 margin-top: 113px;
 
 }
+.button_1{
+padding: 20px 14px;
+position: absolute;
+left: 13.75%;
+right: 72.03%;
+top: 51.06%;
+bottom: 48.12%;
+background: #1E1B1B;
+border-radius: 12px;
+color: white;
+width: 108px;
+font-family: 'Manrope';
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .car-engine{
     position: absolute;
 width: 44%;
@@ -997,6 +1013,16 @@ nav h1{
 .car{
     width: 64%
 }
+    .brands1,
+    .brands2{
+        padding: 0px;
+}
+    .brands1{
+        padding-bottom: 50px;
+    }
+    .button_1{
+    left: 0.75%;
+}
 }
 @media only screen and (min-width: 428px) and (max-width:1025px ) {
     .service {
@@ -1022,5 +1048,8 @@ nav h1{
 }
      .stats2 p{
         width: 180px;
+}
+    .button_1{
+    left: 0.75%;
 }
 }
