@@ -963,8 +963,8 @@ nav h1{
     align-items: center;
 }
 .stats-container{
-    flex-direction: column;
-    margin-left: 244px;
+    
+    margin-left: 0px;
 }
 .car-engine{
     right: -557px;
