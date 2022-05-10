@@ -1016,10 +1016,9 @@ nav h1{
     .brands1,
     .brands2{
         padding: 0px;
+            margin: 20px;
+    padding-bottom: 75px;
 }
-    .brands1{
-        padding-bottom: 75px;
-    }
     .button_1{
     left: 0.75%;
 }
