@@ -1017,6 +1017,9 @@ nav h1{
     position: unset;
 
 }
+    .stats2 h1 {
+    width: auto;
+}
      .stats2 p{
         width: 180px;
 }
