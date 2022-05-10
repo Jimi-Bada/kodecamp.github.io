@@ -991,6 +991,9 @@ nav h1{
 .stats2 h1 {
     width: auto;
 }
+    .stats2 p{
+        width: 180px;
+    }
 .car{
     width: 64%
 }
