@@ -989,7 +989,7 @@ nav h1{
 }
 
 .stats2 h1 {
-    width: 150px
+    width: auto;
 }
 .car{
     width: 64%
