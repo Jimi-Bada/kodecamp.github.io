@@ -1018,6 +1018,7 @@ nav h1{
         padding: 0px;
             margin: 20px;
     padding-bottom: 75px;
+        display: inline-flex;
 }
     .button_1{
     left: 0.75%;
